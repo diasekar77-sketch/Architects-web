@@ -64,6 +64,7 @@ The diagram below details how user navigation events map directly through indivi
            ├─────── (User Explores Resource Center) ───────► [ blog.html ] ──► [ single.html ]
            │
            └─────── (User Triggers Lead Capture) ──────────► [ contact.html ]
+```
 Architects-web/
 ├── index.html           # Application Gateway: Landing page containing the primary value proposition
 ├── about.html           # Corporate Overview: Core mission, leadership highlights, and brand storytelling
