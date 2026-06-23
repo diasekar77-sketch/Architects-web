@@ -2,22 +2,7 @@
 
 A high-performance, responsive, multi-page static web application engineered for creative agencies, enterprise portfolios, and digital studios. Built with strict semantic HTML5 structural design and modular CSS3 component logic to deliver an instantaneous user experience without framework overhead.
 
----
 
-## 📖 Table of Contents
-1. [Repository Architecture](#-repository-architecture)
-2. [Technical Stack](#%EF%B8%8F-technical-stack)
-3. [Key Features](#-key-features)
-4. [System Architecture & File Flow](#-system-architecture--file-flow)
-5. [Directory Structure Mapping](#-directory-structure-mapping)
-6. [⚙️ Installation and Setup](#%EF%B8%8F-installation-and-setup)
-7. [🔍 Detailed Component Analysis](#-detailed-component-analysis)
-8. [📊 Layout & Rendering Methodology](#-layout--rendering-methodology)
-9. [🛡️ Production Optimization & Deployment Protocol](#%EF%B8%8F-production-optimization--deployment-protocol)
-10. [🤝 Contributing Protocol](#-contributing-protocol)
-11. [📄 License](#-license)
-
----
 
 ## 📁 Repository Architecture
 As structured in this repository, the system splits content presentation layers and assets cleanly to maintain low latency and high accessibility:
